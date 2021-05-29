@@ -1,2 +1,2 @@
-# Foobar-Challenge-Solution
+# Foobar-Challenges-Solutions
 Solutions For Google Foobar
