@@ -5,3 +5,4 @@ def solution(x, y):
     c = int(yval-(a+b))
     xval = int(a*x*x+b*x+c)
     return(str(xval))
+#Nice and elegant, Just the way I like it ;)
