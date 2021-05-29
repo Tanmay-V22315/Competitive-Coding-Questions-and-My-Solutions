@@ -1,4 +1,3 @@
-**I'm using Python for this since I don't know how to use Java.**
 
 **Question:**
 (There's some context for this)
