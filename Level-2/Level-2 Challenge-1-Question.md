@@ -1,9 +1,9 @@
-***Question:***<br>
+# **Question:**<br>
 <br>
 
 </br>
-**Bunny Worker Locations**
-======================
+## **Bunny Worker Locations**
+##  ======================
 
 Keeping track of Commander Lambda's many bunny workers is starting to get tricky. You've been tasked with writing a program to match bunny worker IDs to cell locations.
 
@@ -69,8 +69,8 @@ Third-party libraries, input/output operations, spawning threads or processes an
 
 Your solution must be under 32000 characters in length including new lines and and other non-printing characters.
 
-Python
-======
+## Python
+## ======
 Your code will run inside a Python 2.7.13 sandbox. All tests will be run by calling the solution() function.
 
 Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
