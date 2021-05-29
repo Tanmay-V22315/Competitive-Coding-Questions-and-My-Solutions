@@ -1,5 +1,4 @@
 def solution(i):
-    # Hail Be To Commander Lambda. Quite a flawless, Completely Foolproof Scheme if I do say so myself.
     i = abs(int(i))
     # Brute-force for initial primes. Increase the upper-limit for range in the very first for-loop. You're gonna want to increase this for larger numbers as well as the upper-limit in complist.extend and primrange (Upper-limit number is not included in range).
     primlist = []
