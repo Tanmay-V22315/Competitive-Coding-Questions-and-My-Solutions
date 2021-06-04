@@ -4,9 +4,9 @@ Given a string path consisting of characters ‘N’, ‘S’, ‘E’ and ‘W�
 
 ### Example-1:
 <br>
-- Input: path = “NNES”
-- Output : 8
-- Explanation: Since every segment is visited only once, cost = 2 * 4 = 8.
+-Input: path = “NNES”
+-Output : 8
+-Explanation: Since every segment is visited only once, cost = 2 * 4 = 8.
 
 ### Example-2:
 <br>
