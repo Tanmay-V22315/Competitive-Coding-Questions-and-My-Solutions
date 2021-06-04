@@ -1,5 +1,5 @@
 import time
-#Brute-Force; will come up with a better solution. Anything Above 6 will take very long.
+#Brute-Force; will come up with a better solution later. Anything Above 6 will take very long.
 #6 digits takes 1.3 seconds in python3
 def getlucky(N):        # Haha get it? 'Get Lucky' by Daft Punk and others.....you know what? Nevermind.
     begin = time.time()
