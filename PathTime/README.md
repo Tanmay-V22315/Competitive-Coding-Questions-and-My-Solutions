@@ -14,7 +14,7 @@ Explanation: <br>
 - Input : path = “NSE” <br>
 - Output : 5 <br>
 <br>
-Explanation:
+Explanation: <br>
 - Step 1: Travel north. Time Taken = 2 minutes. <br>
 - Step 2: Travel south on that same visited segment. Time Taken = 1 minutes. <br>
 - Step 3: Travel east.Time Taken = 2 minutes. Therefore, total time taken = 2 + 1 + 2 = 5. <br>
