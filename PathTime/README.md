@@ -6,6 +6,7 @@ Given a string path consisting of characters ‘N’, ‘S’, ‘E’ and ‘W�
 <br>
 -Input: path = “NNES” <br>
 -Output : 8 
+
 #### Explanation: <br>
 - Since every segment is visited only once, cost = 2 * 4 = 8. <br>
 
