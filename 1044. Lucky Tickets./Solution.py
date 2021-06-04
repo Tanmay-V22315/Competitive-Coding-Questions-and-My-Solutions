@@ -1,4 +1,4 @@
-#Brute-Force; will come up with a better solution.
+#Brute-Force; will come up with a better solution. Anything Above 6 will take very long.
 def getlucky(N):        # Haha get it? 'Get Lucky' by Daft Punk and others.....you know what? Nevermind.
     delim = ''
     lastnum = delim.join([str(9)]*N)
