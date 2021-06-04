@@ -13,7 +13,7 @@ Given a string path consisting of characters ‘N’, ‘S’, ‘E’ and ‘W�
 <br>
 - Input : path = “NSE” <br>
 - Output : 5 <br>
-<br>
+
 #### Explanation: <br>
 - Step 1: Travel north. Time Taken = 2 minutes. <br>
 - Step 2: Travel south on that same visited segment. Time Taken = 1 minutes. <br>
