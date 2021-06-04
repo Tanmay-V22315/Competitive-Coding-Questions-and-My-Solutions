@@ -4,18 +4,16 @@ Given a string path consisting of characters ‘N’, ‘S’, ‘E’ and ‘W�
 
 ### Example-1:
 <br>
--Input: path = “NNES”
--Output : 8
--Explanation: Since every segment is visited only once, cost = 2 * 4 = 8.
+-Input: path = “NNES” <br>
+-Output : 8 <br>
+-Explanation: Since every segment is visited only once, cost = 2 * 4 = 8. <br>
 
 ### Example-2:
 <br>
-- Input : path = “NSE”
-<br>
-- Output : 5
-<br>
-<br>
-- Explanation:
-- Step 1: Travel north. Time Taken = 2 minutes.
-- Step 2: Travel south on that same visited segment. Time Taken = 1 minutes.
-- Step 3: Travel east.Time Taken = 2 minutes. Therefore, total time taken = 2 + 1 + 2 = 5.
+- Input : path = “NSE” <br>
+- Output : 5 <br>
+- Explanation: <br>
+- <br>
+- Step 1: Travel north. Time Taken = 2 minutes. <br>
+- Step 2: Travel south on that same visited segment. Time Taken = 1 minutes. <br>
+- Step 3: Travel east.Time Taken = 2 minutes. Therefore, total time taken = 2 + 1 + 2 = 5. <br>
