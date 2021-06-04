@@ -4,4 +4,4 @@ Given a string, print all possible palindromic partitions
 
 (P.S. my solution doesn't do *exactly* what the question asks but it's probably fine)
 
-**Question Link: ** https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/
+**Question Link:** https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/
