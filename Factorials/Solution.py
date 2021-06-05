@@ -13,4 +13,4 @@ def getfact(numinp):
         outsol = numinp*getfact(numinp-1)
         memo[numinp-2]=outsol
         return outsol
-print solution(45)
+
