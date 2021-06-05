@@ -7,7 +7,5 @@ def solution(inpnum):
             if 2**(i-1)%i==1:
                 ansnum = i
                 break
-
-
     return ansnum
-print(solution(7))
+
