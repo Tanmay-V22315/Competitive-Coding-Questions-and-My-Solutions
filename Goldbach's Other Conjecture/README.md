@@ -14,4 +14,4 @@ What is the smallest odd composite that cannot be written as the sum of a prime 
 
 #### Question Link: https://projecteuler.net/problem=46
 
-(Note: The answer is 5777)
+(Note: The answer is 5777. Works with Python2 only (You'll have to mess with the ranges to get the number in python3). Takes 1 second.)
