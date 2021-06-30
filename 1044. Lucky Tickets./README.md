@@ -11,11 +11,11 @@ Output a number of tickets such that the sum of the first half of digits is equa
 
 # Samples
 <br>
-| input | output |   |   |   |
-|-------|--------|---|---|---|
-| 4     | 670    |   |   |   |
-| 2     | 10     |   |   |   |
-|       |        |   |   |   |
+| input | output |
+|-------|--------|
+| 4     | 670    |
+| 2     | 10     |
+
 
 <br>
 
