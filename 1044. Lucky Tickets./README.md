@@ -11,15 +11,14 @@ Output a number of tickets such that the sum of the first half of digits is equa
 
 # Samples
 <br>
-_______________
-<br>
+----------------
 |input | output|
-<br>
+----------------
 |4     |  670  |
-<br>
+----------------
 |2     |  10   |
-<br>
-_______________
+---------------
+
 <br>
 
 ## Problem Author: Stanislav Vasilyev
