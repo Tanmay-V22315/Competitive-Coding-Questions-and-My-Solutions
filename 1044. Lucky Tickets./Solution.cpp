@@ -4,8 +4,6 @@
 #include <cmath>
 #include <string> 
 using namespace std;
-
-
 int sumchecker(int internum, unsigned char numberOfDigits)
 {
     int sum = 0;
@@ -16,10 +14,6 @@ int sumchecker(int internum, unsigned char numberOfDigits)
     }
     return sum;
 }
-
-//------------------------------------------------------------------------------------------------------------------------------------------------------------------//
-
-
 int main()
 {   
     int x;
