@@ -15,5 +15,5 @@ If anybody has any other solutions or suggestions, please let me know at tanmay.
 | C++ compiler                            | g++               |
 | Operating System                        | Pop!OS (Linux)    |
 
-- Note: I'm adding C++ code since I need to learn that as well (For a (hopefully) upcoming Fully Neural Hyper Optimized Chess engine). Wish me luck!
+- Note: I'm adding C++ code since I need to learn that as well (For a (hopefully) upcoming Fully Neural Hyper Optimized Chess engine for Project NEUROMANCER). Wish me luck!
 
