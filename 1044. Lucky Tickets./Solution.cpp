@@ -27,10 +27,16 @@ int main()
     int counter = 0;
     int *ptr;
     ptr = &counter;
-    
-    for (int y = pow(10,x>>1)-1; y < pow(10, x); y= y+2)
+
+
+
+    int Multiplier1 = pow(10,x>>1);
+    int Multiplier2 = pow(10,x);
+
+
+    for (int y = Multiplier1-1; y < Multiplier2; y= y+2)
     {             
-        if (sumchecker(y%(int)pow(10, (x>>1)), x)==sumchecker(y - y%(int)pow(10, (x>>1)), x))
+        if (sumchecker(y%Multiplier1, x)==sumchecker(y - y%Multiplier1, x))
         {
             *ptr = *ptr +1;     
         }
