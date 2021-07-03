@@ -16,7 +16,7 @@ If anybody has any other solutions or suggestions, please let me know at tanmay.
 | Memory                                  | 16 GB (2x8GB)     |
 | Python version                          | 3.8.6             |
 | C++ compiler                            | g++               |
-| Operating System                        | Pop!OS (Linux)    |
+| Operating System                        | Pop!OS (Linux) with KDE  |
 
 - Note: I'm adding C++ code since I need to learn that as well (For a (hopefully) upcoming Fully Neural Hyper Optimized Chess engine for Project NEUROMANCER). Wish me luck!
 
