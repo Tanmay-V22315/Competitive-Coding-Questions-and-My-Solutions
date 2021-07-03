@@ -25,14 +25,16 @@ int main()
     cout << "Number of digits: " ;
     cin >> x;
     int counter = 0;
+    int *ptr;
+    ptr = &counter;
     
     for (int y = pow(10,x>>1)-1; y < pow(10, x); y= y+2)
     {             
         if (sumchecker(y%(int)pow(10, (x>>1)), x)==sumchecker(y - y%(int)pow(10, (x>>1)), x))
         {
-            counter++;        
+            *ptr = *ptr +1;     
         }
     }
-    cout <<  counter*2 << endl;
+    cout <<  *ptr*2 << endl;
     return 0;
 }
