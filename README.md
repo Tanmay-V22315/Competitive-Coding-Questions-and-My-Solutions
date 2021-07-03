@@ -4,7 +4,10 @@ Solutions For Google Foobar are included.
 Other Questions also from https://acm.timus.ru/problem.aspx?space=1&num=1012 and https://www.geeksforgeeks.org/category/competitive-programming/
 <br>
 If anybody has any other solutions or suggestions, please let me know at tanmay.vemuri22315@gmail.com
-##System Specifications used for benchmarking:
+
+
+
+## System Specifications used for benchmarking:
 
 | Type                                    | Name              |
 |-----------------------------------------|-------------------|
