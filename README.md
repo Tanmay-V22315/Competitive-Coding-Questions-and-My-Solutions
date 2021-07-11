@@ -19,4 +19,5 @@ If anybody has any other solutions or suggestions, please let me know at tanmay.
 | Operating System                        | Pop!OS (Linux) with KDE  |
 
 - Note: I'm adding C++ code since I need to learn that as well (For a (hopefully) upcoming Fully Neural Hyper Optimized Chess engine for Project NEUROMANCER). Wish me luck!
+- Note: Switching to Rust
 
