@@ -20,5 +20,5 @@ If anybody has any other solutions or suggestions, please let me know at tanmay.
 
 - Note: I'm adding C++ code since I need to learn that as well (For a (hopefully) upcoming Fully Neural Hyper Optimized Chess engine for Project NEUROMANCER). Wish me luck!
 - Note: Switching to Rust
-- Note: Any subsequent code is written in Manjaro Linux (I use arch btw (well, not really but you get the idea))
+- Note: Any subsequent code after 13/8/2021 is written in Manjaro Linux (I use arch btw (well, not really but you get the idea))
 
