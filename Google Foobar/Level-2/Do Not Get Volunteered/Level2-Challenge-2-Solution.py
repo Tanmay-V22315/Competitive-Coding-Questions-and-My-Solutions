@@ -1,3 +1,5 @@
+# This solution is absolutely terrible. Look at better_soluton.py
+
 class NoNegatives(list):
     def __getitem__(self, index):
         if index < 0:
